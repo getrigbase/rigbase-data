@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+title: "RigBase: measured local LLM speeds on home AI hardware"
+message: "If you use this dataset, please cite it as below and keep each row's source URL."
+type: dataset
+authors:
+  - name: "RigBase"
+    website: "https://getrigbase.com"
+license: "CC-BY-4.0"
+url: "https://getrigbase.com/data/"
+repository-code: "https://github.com/getrigbase/rigbase-data"
+identifiers:
+  - type: url
+    value: "https://huggingface.co/datasets/rigbase/rigbase-local-llm-benchmarks"
+    description: "Hugging Face mirror"
+keywords:
+  - local LLM
+  - GPU
+  - benchmark
+  - tokens per second
+  - llama.cpp
+  - home AI
+abstract: >-
+  150 real home AI builds and 358 measured local-LLM generation speeds
+  (tokens/sec) across 51 models. Every row links to its original public source.
+  Snapshot mirrored from https://getrigbase.com/data/ (generated 2026-10-27).
