@@ -8,16 +8,16 @@ This repository mirrors the free RigBase dataset:
 
 | | |
 |---|---|
-| Builds | **301** |
-| Measured results | **755** |
-| Models | **73** |
-| Snapshot generated | **2026-11-26** (from getrigbase.com/data/) |
+| Builds | **305** |
+| Measured results | **769** |
+| Models | **74** |
+| Snapshot generated | **2026-11-27** (from getrigbase.com/data/) |
 
 Every number links to its original public source (llama.cpp discussions, llama-bench databases, blogs, GitHub repos, Mia's AI Lab recipes, and similar). RigBase collects and normalises these numbers; it does **not** re-measure them or invent estimates for the `tps` column.
 
 ## Files
 
-- `builds.csv` — one row per measured result (755 rows)
+- `builds.csv` — one row per measured result (769 rows)
 - `builds.json` — one object per build with parts + nested results
 - `LICENSE` — CC BY 4.0
 - `CITATION.cff` — machine-readable citation

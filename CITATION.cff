@@ -20,7 +20,7 @@ keywords:
   - llama.cpp
   - home AI
 abstract: >-
-  301 real home AI builds and 755 measured local-LLM generation speeds
-  (tokens/sec) across 73 models. Every row links to its original public source.
-  Snapshot mirrored from https://getrigbase.com/data/ (generated 2026-11-26).
-date-released: "2026-11-26"
+  305 real home AI builds and 769 measured local-LLM generation speeds
+  (tokens/sec) across 74 models. Every row links to its original public source.
+  Snapshot mirrored from https://getrigbase.com/data/ (generated 2026-11-27).
+date-released: "2026-11-27"
